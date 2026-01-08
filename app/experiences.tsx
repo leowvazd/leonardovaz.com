@@ -14,7 +14,7 @@ const experiences = [
     ],
   },
   {
-    company: "Santander S.A - PLARD (Accenture)",
+    company: "Santander S.A. - PLARD (Accenture)",
     role: "Junior Software Engineer",
     period: "AUG 2023 - DEC 2023",
     highlights: [
