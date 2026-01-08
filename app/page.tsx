@@ -24,7 +24,7 @@ export default function Home() {
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://instagram.com/ganekoyudi"
+          href="https://instagram.com/vaz.aonde"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -40,7 +40,7 @@ export default function Home() {
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://www.linkedin.com/in/lucas-yudi-ganeko-1ba3b3178"
+          href="https://www.linkedin.com/in/leonardo-vaz-5a4185208/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -95,8 +95,8 @@ export default function Home() {
           </p>
           <Image
             className="rounded-lg object-cover"
-            alt="Yudi Ganeko"
-            src="/yudi.png"
+            alt="Leonardo Vaz"
+            src="/vaz.png"
             width={300}
             height={200}
           />
@@ -106,7 +106,7 @@ export default function Home() {
         </h1>
         <ExperienceList />
         <footer className="text-center text-sm text-gray-500 mt-20">
-          Criado por Yudi Ganeko usando NextJs e TailwindCSS.
+          Criado por Leonardo Vaz usando NextJs e TailwindCSS.
           <br /> © Todos os direitos reservados.
         </footer>
       </main>

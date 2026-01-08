@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Yudi Ganeko",
-  description: "Criado por Yudi Ganeko",
+  title: "Leonardo Vaz",
+  description: "Criado por Leonardo Vaz",
 };
 
 export default function RootLayout({

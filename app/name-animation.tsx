@@ -3,6 +3,6 @@
 import { TypeAnimation } from "react-type-animation";
 
 export default function NameAnimation() {
-  const longest = "Yudi Ganeko :D";
-  return <TypeAnimation sequence={["Yudi Ganeko :)"]} speed={10} />;
+  const longest = "Leonardo Vaz :D";
+  return <TypeAnimation sequence={["Leonardo Vaz :)"]} speed={10} />;
 }
