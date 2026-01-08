@@ -43,6 +43,18 @@ const experiences = [
       "Interacted with different teams to prioritize demands and deliver timely and effective solutions.",
     ],
   },
+    {
+    company: "Personal Projects - (WEB3, APPS, SCRIPTS, BOTS)",
+    role: "Just for fun",
+    period: "Lifetime",
+    highlights: [
+      "Refactoring and developing a bot for buying and selling memecoins on the Solana blockchain network using Python.",
+      "Development of a companion chatbot that provides psychological pre-screening, enables reflective conversations and personal journaling, and, when necessary, offers referrals to psychologists for asynchronous support.",
+      "Design and implementation of an imperative programming language, IsiLanguage, closely based on structured Portuguese, including the creation of its compiler.",
+      "Developing a reminder app using Kotlin for Android.",      
+      "This cover page :)",
+    ],
+  },
 ];
 
 export default function ExperienceList() {
