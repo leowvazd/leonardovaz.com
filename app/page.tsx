@@ -8,7 +8,7 @@ export default function Home() {
       <nav className="w-full py-4 flex gap-[24px] flex-wrap items-center justify-center fixed top-0 left-0 bg-background z-50">
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://youtube.com/@yudiganeko"
+          href="https://youtube.com/@leowvazd"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -71,7 +71,7 @@ export default function Home() {
           <div className="flex mt-15 gap-4 items-center flex-col sm:flex-row">
             <a
               className="rounded-md border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-              href="mailto:contato@yudiganeko.com"
+              href="mailto:leonardovazlourenco@gmail.com"
             >
               <Image alt="Mail icon" src="/mail.svg" width={25} height={25} />
               Me envie um e-mail!
