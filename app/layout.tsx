@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Leonardo Vaz",
-  description: "Criado por Leonardo Vaz",
+  description: "Created by Leonardo Vaz",
 };
 
 export default function RootLayout({
