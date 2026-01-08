@@ -78,7 +78,7 @@ export default function Home() {
             </a>
           </div>
         </div>
-        <h1 className="text-left font-bold text-2xl">Sobre mim:</h1>
+        <h1 className="text-left font-bold text-2xl">About me:</h1>
         <div className="flex flex-col sm:flex-row mb-10 items-center sm:items-start">
           <p className="my-10 leading-7 sm:mr-15 text-base text-left">
             I have 4 years of experience as{" "}
