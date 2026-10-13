@@ -90,7 +90,7 @@ export default function Home() {
             by making the most of the journey.
             <br />
             <br />
-            Born and raised in São Paulo, I am a descendant of Açores, Portugal 🇵🇹.
+            Born and raised in São Paulo, I'm living in Lisbon.
           </p>
           <Image
             className="rounded-lg object-cover"
