@@ -81,7 +81,7 @@ export default function Home() {
         <h1 className="text-left font-bold text-2xl">About me:</h1>
         <div className="flex flex-col sm:flex-row mb-10 items-center sm:items-start">
           <p className="my-10 leading-7 sm:mr-15 text-base text-left">
-            I have 4 years of experience as{" "}
+            I have 5 years of experience as{" "}
             <span className="text-yellow-600"> Software Engineer</span>
             , working for multi-billion dollar companies.
             <br />

@@ -4,9 +4,19 @@ import { useState } from "react";
 
 const experiences = [
   {
+    company: "agap2IT Portugal",
+    role: "Senior Back End Developer",
+    period: "SEP 2026 - PRESENT",
+    highlights: [
+      "Developing and maintaining backend solutions for a financial project using Java and Spring Boot, focused on REST APIs, microservices architecture, system integrations, and data processing.",
+      "Contributing to new feature development, production issue resolution, automated testing, and performance improvements.",
+      "Delivering scalable and reliable solutions aligned with banking business requirements, based in Lisbon, Portugal.",
+    ],
+  },
+  {
     company: "Itaú Unibanco - Insurances (Accenture)",
     role: "Mid Software Engineer",
-    period: "JAN 2024 - PRESENT",
+    period: "JAN 2024 - AUG 2026",
     highlights: [
       "Collaborated on modernizing the end-to-end journey of some of the bank's insurance products, such as the protected card.",
       "Refactoring the databases to standardize certain data types across the community's databases. For example, rewriting all customer documents and zip codes as numbers only in our databases.",
